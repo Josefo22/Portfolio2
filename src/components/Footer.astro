@@ -1,14 +1,19 @@
 ---
 import { t } from 'i18n:astro'
 
-const translation = t('footer', { returnObjects: true }) as any
+type FooterTranslation = {
+  developed_with?: string
+  developed_by?: string
+}
+// @ts-expect-error: Ignorando inferencia profunda
+const translation: FooterTranslation = t('footer', { returnObjects: true }) as FooterTranslation;
+
 
 const developedWith = translation.developed_with || ''
 const developedBy = translation.developed_by || ''
 
 const year = new Date().getFullYear()
 ---
-
 <footer>
   <p>
     <span>
