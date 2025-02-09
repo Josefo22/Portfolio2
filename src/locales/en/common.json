@@ -1,0 +1,128 @@
+{
+  "title": "Web FullStack Developer - Juan José Agudelo Vélez",
+  "description": "FullStack Developer from Medellin, Colombia. Specialist in HTML5, CSS5, JavaScript JavaScript, MEAN and PHP.",
+  "navbar": [
+    {
+      "label": "Home",
+      "href": "#top"
+    },
+    {
+      "label": "Experience",
+      "href": "/en/#work-experience"
+    },
+    {
+      "label": "Projects",
+      "href": "/en/#projects"
+    },
+    {
+      "label": "About me",
+      "href": "/en/#about-me"
+    }
+  ],
+  "hero": {
+    "job_availability": "Available for work!",
+    "title": "Hello I'm Juan José Agudelo Vélez!",
+    "job_title": "<strong>Web FullStack Developer</strong> from Medellin, Colombia.",
+    "description": "Specialist in HTML5, CSS5, JavaScript JavaScript, MEAN and PHP.",
+    "cta": "Contact me"
+  },
+  "experience": {
+    "title": "Work Experience",
+    "jobs": {
+      "jobs_title": ["Freelance", "Freelance Mex"],
+      "jobs_description": [
+        {
+          "title": "Web Frontend Developer",
+          "time": ["Dec 2021"],
+          "description": "I create modern websites with good UI/UX practices. I also manage SEO, security and performance optimizations to increase conversion and visits.",
+          "list": ["Design of websites", "Optimization of websites"]
+        },
+        {
+          "title": "WordPress Web Developer",
+          "time": ["Apr 2024", "Oct 2024"],
+          "description": "I create modern websites with good UI/UX practices. I also manage SEO, security and performance optimizations to increase conversion and visits.",
+          "list": ["Design of websites", "Optimization of websites"]
+        }
+      ]
+    }
+  },
+ "projects": {
+  "title": "Projects",
+  "projects": [
+    {
+      "title": "SysPos",
+      "description": "Sistema de administración de pagos y aplicación de la 'Ley del Punto' desarrollado con WAMP (Windows, Apache, MySQL, PHP), que incluye gestión de pagos, generación de QR y un panel de administrador.",
+      "image": "/src/images/projects/esteli-buses-project.jpg",
+      "techs": ["PHP", "HTML", "CSS", "JavaScript"],
+      "code": "Code",
+      "preview": "Preview"
+    },
+    {
+      "title": "Lorem",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Faucibus quis sociis at sagittis egestas sed volutpat. Arcu pellentesque elit volutpat quam. Id dictum sagittis hendrerit diam viverra velit. Blandit id viverra quis lectus faucibus egestas ipsum turpis.",
+      "image": "/src/images/projects/ana-rangel-portafolio.jpg",
+      "techs": [],
+      "code": "Code",
+      "preview": "Preview"
+    },
+    {
+      "title": "Lorem",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur consequat, augue eu dapibus tristique, lorem ligula ultricies purus, vitae vehicula eros quam in purus.",
+      "image": "/src/images/projects/calculadora-payoneer-project.jpg",
+      "techs": [],
+      "code": "Code",
+      "preview": "Preview"
+    }
+  ]
+},
+"contributions": {
+  "title": "Contributions",
+  "contributions": [
+    {
+      "src": "/src/images/contributions/advanced-periodontics.jpg",
+      "alt": "Advanced Periodontics",
+      "title": "Lorem",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nisi vel consectetur porttitor, felis eros facilisis nulla, sit amet posuere nisl odio a quam.",
+      "techs": [],
+      "repo": "#",
+      "repo_label": "Repository",
+      "commits": "#"
+    },
+    {
+      "src": "/src/images/contributions/advanced-periodontics.jpg",
+      "alt": "Advanced Periodontics",
+      "title": "Lorem",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nisi vel consectetur porttitor, felis eros facilisis nulla, sit amet posuere nisl odio a quam.",
+      "techs": [],
+      "repo": "#",
+      "repo_label": "Repository",
+      "commits": "#"
+    },
+    {
+      "src": "/src/images/contributions/advanced-periodontics.jpg",
+      "alt": "Advanced Periodontics",
+      "title": "Lorem",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nisi vel consectetur porttitor, felis eros facilisis nulla, sit amet posuere nisl odio a quam.",
+      "techs": [],
+      "repo": "#",
+      "repo_label": "Repository",
+      "commits": "#"
+    }
+  ]
+  },
+  "about": {
+  "title": "About Me",
+  "subtitle": "JUAN JOSÉ AGUDELO VÉLEZ",
+  "description": "I am a passionate software development professional with a solid foundation in Software Analysis, Development, and Computer Engineering. I have practical experience in Full Stack Development and have worked on diverse projects, ranging from web applications to inventory and billing systems. I am characterized by my problem-solving skills, continuous learning mindset, and adaptability to new challenges."
+},
+  "contact": {
+    "title": "Ready to make your dreams come true?",
+    "subtitle": "I can boost your project or be part of your team"
+  },
+  "footer": {
+    "developed": {
+      "developed_with": "Made with",
+      "developed_by": "by"
+    }
+  }
+}
